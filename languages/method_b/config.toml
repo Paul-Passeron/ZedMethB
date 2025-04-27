@@ -1,0 +1,4 @@
+name = "Method B"
+grammar = "method-b"
+path_suffixes = ["mch", "imp", "ref"]
+line_comments = ["// "]

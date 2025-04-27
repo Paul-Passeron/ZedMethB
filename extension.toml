@@ -1,0 +1,11 @@
+id = "zed-meth-b"
+name = "Method B"
+version = "0.0.1"
+schema_version = 1
+authors = ["Paul Passeron <paul.passeron2@gmail.com>"]
+description = "Method B language support for Zed"
+repository = "https://github.com/Paul-Passeron/ZedMethB"
+
+[grammars.method-b]
+repository = "https://github.com/Paul-Passeron/tree-sitter-method-b"
+rev = "1c7f9dfff2a8802331e897152d56cc950e987f5d"
