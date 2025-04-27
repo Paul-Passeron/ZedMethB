@@ -1,0 +1,19 @@
+{
+    "name": "MethodB Theme",
+    "colors": {
+        "background": "#1e1e1e",
+        "text": "#d4d4d4",
+        "comment": "#6a9955",
+        "keyword": "#569cd6",
+        "identifier": "#9cdcfe",
+        "string": "#ce9178",
+        "punctuation": "#d4d4d4"
+    },
+    "rules": [
+        { "scope": "comment", "foreground": "comment" },
+        { "scope": "keyword", "foreground": "keyword" },
+        { "scope": "identifier", "foreground": "identifier" },
+        { "scope": "string", "foreground": "string" },
+        { "scope": "punctuation", "foreground": "punctuation" }
+    ]
+}

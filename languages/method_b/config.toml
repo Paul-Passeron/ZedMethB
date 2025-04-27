@@ -2,3 +2,11 @@ name = "Method B"
 grammar = "method-b"
 path_suffixes = ["mch", "imp", "ref"]
 line_comments = ["// "]
+block_comment = ["/*", " */"]
+brackets = [
+    { start = "{", end = "}", close = true, newline = true },
+    { start = "(", end = ")", close = true, newline = true },
+    { start = "[", end = "]", close = true, newline = true },
+    { start = "\"", end = "\"", close = true, newline = false },
+    { start = "'", end = "'", close = true, newline = false },
+]

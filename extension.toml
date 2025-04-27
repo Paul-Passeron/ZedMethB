@@ -8,4 +8,4 @@ repository = "https://github.com/Paul-Passeron/ZedMethB"
 
 [grammars.method-b]
 repository = "https://github.com/Paul-Passeron/tree-sitter-method-b"
-rev = "1c7f9dfff2a8802331e897152d56cc950e987f5d"
+rev = "56de8c5ce4d39b8181b03f42c8b1d61000db0cbc "
